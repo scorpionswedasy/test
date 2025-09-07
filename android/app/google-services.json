@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "419482297256",
+    "project_id": "flamingotar-32ba6",
+    "storage_bucket": "flamingotar-32ba6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419482297256:android:306f97953139c8680af39d",
+        "android_client_info": {
+          "package_name": "com.flamingolive.hus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419482297256-0vq29e3nfjcjeat9a3ee3mj44se626ul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flamingolive.hus",
+            "certificate_hash": "91a4fe11e5be7737d8ce3dd5f1b491180ab4dff3"
+          }
+        },
+        {
+          "client_id": "419482297256-n34cvqrap58v0f1gvn9oakr95opg8nka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flamingolive.hus",
+            "certificate_hash": "e0940bd4b683a878bb4e2f3273cfcbee7e8922b3"
+          }
+        },
+        {
+          "client_id": "419482297256-ur9pnggpta6fioj9tni7gehrt3dorndg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEu8704idZuniuc-y1gEMHnYNu5Ucvg18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419482297256-ur9pnggpta6fioj9tni7gehrt3dorndg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
